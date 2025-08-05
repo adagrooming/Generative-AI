@@ -1,4 +1,4 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Generative AI [![Awesome]
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
